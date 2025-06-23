@@ -1,6 +1,7 @@
 # Interactive Data Analyzer - POC
 
 A simple proof of concept for synchronized dual charts with interactive controls.
+![image](https://github.com/user-attachments/assets/bbd9510b-18bf-4ff6-88f3-b34ce082a5e2)
 
 ## Features
 
